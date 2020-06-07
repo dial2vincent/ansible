@@ -1,8 +1,8 @@
 # Ping playbook  
 ---
-- hosts: all
+- hosts: localhost
 
-  gather_facts: no
+  gather_facts: yes
 
   tasks:
 
