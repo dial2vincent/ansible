@@ -1,3 +1,5 @@
+# Ansible localhost testing 
+# Command: ansible-playbook test.yml
 ---
    - hosts: localhost
      tasks:
